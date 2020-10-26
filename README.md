@@ -1,5 +1,4 @@
 # Powershell-Hash-Commands
----
 
 ### Search for specific hash under location:
 > Get-ChildItem "C:\PATH\" -Recurse |
